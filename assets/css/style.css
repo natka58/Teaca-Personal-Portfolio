@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* apply styles to <body> */
+body {
+    background-color: #d9dcd6;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+/* Header Style Start */
+header {
+  padding: 20px 35px;
+  background-color: darkgrey;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+header h1 {
+    font-size: 48px;
+    Margin: 0;
+    font-weight: bold;
+    color: white;
+    background-color: lightblue;
+    padding: 1%;
+    
+}
+header a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+header nav {
+    margin: 7px 0;
+}
+header nav ul  {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-items:center;
+    list-style: none;
+}
+header nav ul li a {
+    padding-top: 10px;
+    margin-right: 20px;
+    float: right;
+    font-size: 1.55vw;
+}
+
+/* Header Style End */
+
+/* apply styles to Hero */
+.hero {
+    background-image: url("../images/1.jpg");
+    margin-bottom: 25px;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+  }
+  .hero-cta {
+    width: 100%;
+    text-align: end;
+    margin: 10%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.3;
+    justify-content: space-between;
+    flex-wrap:wrap;
+  }
+  .hero-cta h3 {
+    font-style: italic;
+    color: white;
+    padding: 2%;
+    margin:2px 2px 2px 2px;
+    background-color: grey;
+  }
+  }
+/* apply styles to Content */
+section {
+padding: 60px;
+}
+
+.about {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+     justify-content: space-between;
+  }
+  .section-title {
+    font-size: 55px;
+    color:gray;
+    border-right: 3px solid;
+
+}
+.about h2 {
+    font-size: 55px;
+    text-align: right;
+    align-self:flex-start;
+    padding-right: 1%;
+    padding-bottom: 12%;
+    display: inline-block;
+    
+}
+.about p {
+    line-height: 1.7;
+    color: gray;
+    font-size: 18px;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 2%;
+}
+
+.primary-border {
+    border-color:gray;
+
+    
+  }
+ .flex-row {
+     display: flex;
+ } 
+
+/* work grid images */
+ .horiseon {
+     background-image: url('../images/digital-marketing-meeting.jpg/');
+ }
+
+ .run-buddy {
+     background-image: url('../images/hero-bg.jpg');
+ }
+
+ .led-wall {
+     background-image: url('../images/ledwall.jpg');
+ }
+
+
+
+
+/* footer styles */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+footer h2 {
+    font-size: 20px;
+    
+    
+}
+footer div {
+    
+    line-height: 1.5;
+    text-align: center;
+  }    
+
