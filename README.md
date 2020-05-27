@@ -1,9 +1,9 @@
 # Teaca-Personal-Portfolio
 
-# Natalia Teaca personal work portfolio
-### This is my very first persoanl portfolio
+## Natalia Teaca personal work portfolio
+### This is my very first personal portfolio
 
-## This portfolio was build by using 
+### This portfolio was build by using 
 
 ~HTML
 
