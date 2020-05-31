@@ -354,15 +354,15 @@ footer div {
     }
     @media screen and (max-width: 768px) {
   
-    .grid-container {
-     transform: scale(0.5) translate(-40%, -40%) ;
+   .grid-container {
+      transform: scale(0.5) translate(-40%, -40%) ;
       flex-wrap: wrap;
-	}
+    }
+
     .gallery-images {
-        flex-wrap: wrap;
-        writing-mode: unset;   
+      flex-wrap: wrap;
     }
     .title  {
       width: 60%;
     }
- 
+  
