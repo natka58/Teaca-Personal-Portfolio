@@ -9,6 +9,19 @@
 
 ~CSS
 
+### On this page you will find 
+
+*Information about me
+
+*My work 
+
+*My contact information
+
+
+## Screenshot
+<img src="pageimage.jpg">
+
+[Link to My Portfolio ](https://natka58.github.io/Teaca-Personal-Portfolio/)
 
 [Link to Portfolio](place holder)
 
